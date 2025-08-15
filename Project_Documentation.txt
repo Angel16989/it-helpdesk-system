@@ -1,0 +1,10 @@
+PROJECT DOCUMENTATION - IT SUPPORT TICKET SYSTEM
+
+This Word document contains:
+- Detailed project overview and requirements
+- Screenshots of the ticket system interface
+- Code explanations and technical implementation
+- Client feedback and usage statistics
+- Lessons learned during development at Greenlight MSP
+
+[This is a placeholder - the actual Word document will be uploaded separately with detailed project information]

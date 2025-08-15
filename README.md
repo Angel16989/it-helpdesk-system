@@ -1,38 +1,37 @@
-# IT Helpdesk Management System
+# IT Support Ticket System
 
-A professional enterprise-level helpdesk system for managing IT support tickets and operations.
+Simple helpdesk system I built to practice my IT support skills and learn basic web development.
 
-## Live Demo
-🚀 **[Access Demo](https://helpdesk-demo.rasiktiwari.com)**
+## What It Does
+- � Creates and tracks IT support tickets
+- 👥 Basic user management 
+- 📊 Simple reporting dashboard
+- 📧 Email notifications when tickets are updated
 
-**Demo Credentials:**
-- Admin: `admin@demo.com` / `admin123`
-- Technician: `tech@demo.com` / `tech123`
+## Skills I Used
+- **HTML/CSS** - For the web interface
+- **JavaScript** - Basic form handling and validation
+- **Microsoft 365** - Integration with Outlook for notifications
+- **Basic Database** - Simple file-based storage for tickets
 
-## Key Features
-- ✅ Real-time ticket management
-- ✅ SLA tracking and escalation
-- ✅ Role-based access control
-- ✅ Mobile-responsive design
-- ✅ Email notifications
-- ✅ Analytics dashboard
+## What I Learned
+- How to structure a simple web application
+- Working with forms and data validation
+- Email integration basics
+- User interface design principles
 
-## Tech Stack
-- **Frontend:** React.js, Material-UI
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Real-time:** Socket.io
-- **Auth:** JWT tokens
+## Features
+- ✅ Submit new IT support tickets
+- ✅ View all open tickets
+- ✅ Mark tickets as resolved
+- ✅ Send email updates to users
+- ✅ Basic search functionality
 
-## Performance Metrics
-- **2,500+** tickets processed monthly
-- **94.7%** customer satisfaction
-- **4.2 hours** average resolution time
-
-## Business Impact
-- 35% reduction in resolution time
-- $50,000 annual cost savings
-- 15+ organizations using the system
+## Future Improvements
+- Add more advanced filtering
+- Better mobile support
+- Integration with Microsoft Teams
+- More detailed reporting
 
 ---
-*Built by Rasik Tiwari - Full-stack IT Professional*
+*This is a learning project where I practiced basic web development while solving real IT support challenges I've encountered.*
